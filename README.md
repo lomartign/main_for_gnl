@@ -2,7 +2,7 @@
 
 ## Description
 
-J'ai creé ce petit outil pour vous permettre de tester facilement votre `get_next_line` sans avoir à refaire un `main` à chaque fois.
+J'ai créé ce petit outil pour vous permettre de tester facilement votre `get_next_line` sans avoir à refaire un `main` à chaque fois.
 
 Le tout avec un affichage propre et numéroté dans le terminal !
 
